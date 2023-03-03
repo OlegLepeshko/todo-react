@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OlegLepeshko/todo-react/static/css/main.8e05c65a.css",
+    "main.js": "/OlegLepeshko/todo-react/static/js/main.836a38a3.js",
+    "static/js/787.e9f13884.chunk.js": "/OlegLepeshko/todo-react/static/js/787.e9f13884.chunk.js",
+    "index.html": "/OlegLepeshko/todo-react/index.html",
+    "main.8e05c65a.css.map": "/OlegLepeshko/todo-react/static/css/main.8e05c65a.css.map",
+    "main.836a38a3.js.map": "/OlegLepeshko/todo-react/static/js/main.836a38a3.js.map",
+    "787.e9f13884.chunk.js.map": "/OlegLepeshko/todo-react/static/js/787.e9f13884.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e05c65a.css",
+    "static/js/main.836a38a3.js"
+  ]
+}
