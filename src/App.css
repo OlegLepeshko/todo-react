@@ -1,0 +1,7 @@
+.app {
+  padding-top: 30px;
+  display: flex;
+ }
+ .component {
+   padding-left: 70px;
+ }

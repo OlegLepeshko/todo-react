@@ -1,0 +1,31 @@
+.component {
+  margin: 0 auto;
+}
+
+.red {
+  background-color: white;
+  border: black;
+  color: black;
+  cursor: pointer;
+
+}
+
+.red.active {
+  border: white;
+  color: white;
+  cursor: pointer;
+  background-color:red;
+  color: black;
+}
+
+.yellow {
+  background-color: yellow;
+  width: 25px;
+  display: none;
+}
+
+.green {
+  background-color: green;
+  width: 25px;
+  display: none;
+}
